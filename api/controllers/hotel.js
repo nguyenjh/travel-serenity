@@ -60,6 +60,7 @@ export const getAllHotel = async (req,res,next)=>{
     }
 }
 
+// get all (countDocuments of city name)
 export const countByCity = async (req,res,next)=>{
     const cities = req.query.cities.split(",")
     try {
