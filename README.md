@@ -54,5 +54,5 @@ Express server with multiple routes:
 
 ## Repositories:
 
-- Front End: [GitHub Repository](https://github.com/nguyenjh/travel-serenity)
+- Front End: [GitHub Repository](https://github.com/nguyenjh/travel-serenity-react-ui)
 - Back End: [This Current GitHub Repository](https://github.com/nguyenjh/travel-serenity)
