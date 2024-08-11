@@ -46,7 +46,7 @@ Express server with multiple routes:
 
 ### Front-End:
 
-- The front end fully developed in React.js using the create-react-app boilerplate.
+- The front-end fully developed in React.js using the create-react-app boilerplate.
 - The home page provides an advanced search interface for users to find hotels.
 - The search result page allows users to view available hotels, view a snippet of hotels' information, check hotels' availability to move onto to their individual page, and adjust their desired minimum/maximum prices preferences in the options menu.
 - Individual hotel page allows users to view hotel's information in-depth, see close-up hotel photos, view room availability, and are able to select and reserve room(s) to move onto the payment page.
