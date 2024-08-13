@@ -1,4 +1,4 @@
-# Travel Serenity
+# Travel
 MERN Stack Hotel Booking Website
 
 ## Description:
