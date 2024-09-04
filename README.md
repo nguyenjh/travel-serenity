@@ -20,6 +20,15 @@ Travel Serenity is a comprehensive web application that allows users to search, 
 - HTML
 - CSS
 
+## How to Run
+- Open code in GitHub Desktop and open in VS Code
+- Split a new terminal
+- In the first terminal, type ```cd api``` and hit enter
+- Type ```yarn start``` and hit enter
+- In second terminal, type ```cd client``` and hit enter
+- Type ```yarn start``` and hit enter
+- This should redirect you to a localhost website to use the web application
+
 ### Front-End:
 The front-end is developed in React.js, utilizing the create-react-app boilerplate. The user interface is designed to be responsive and intuitive, ensuring a smooth user experience across different devices.
 
