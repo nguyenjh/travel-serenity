@@ -23,10 +23,10 @@ Travel Serenity is a comprehensive web application that allows users to search, 
 ## How to Run:
 - Open code in GitHub Desktop and open in VS Code
 - Split a new terminal
-- In the first terminal, type ```cd api``` and hit enter
-- Type ```yarn start``` and hit enter
-- In second terminal, type ```cd client``` and hit enter
-- Type ```yarn start``` and hit enter
+- In the first terminal, type **```cd api```** and hit enter
+- Type **```yarn start```** and hit enter
+- In second terminal, type **```cd client```** and hit enter
+- Type **```yarn start```** and hit enter
 - This should redirect you to a localhost website to use the web application
 
 ### Front-End:
