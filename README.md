@@ -20,7 +20,7 @@ Travel Serenity is a comprehensive web application that allows users to search, 
 - HTML
 - CSS
 
-## How to Run
+## How to Run:
 - Open code in GitHub Desktop and open in VS Code
 - Split a new terminal
 - In the first terminal, type ```cd api``` and hit enter
